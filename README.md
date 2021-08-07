@@ -8,7 +8,7 @@ This repository contains projects did for Udacity Programming For Data Science W
 
 
 ## Project 1 : Investigate a Relational Database
-[Check My Project Submission Through This Link]()
+[Check My Project Submission Through This Link](https://github.com/mujahid-mohammed/Udacity-Programming-For-Data-Science-With-Python-Nanodegree/tree/main/Project_1)
 
 ### Overview:
 
