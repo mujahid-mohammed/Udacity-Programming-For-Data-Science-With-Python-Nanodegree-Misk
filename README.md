@@ -1,5 +1,5 @@
 # Udacity-Programming-For-Data-Science-With-Python-Nanodegree
-<img src="images/DS_image.png" width="500" class="center">
+<img src="images/DS_image.png" width="500" class="right">
 
 
 ## Created by Mujahid Mohammed Alkhuzayyim
