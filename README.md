@@ -1,5 +1,5 @@
 # Udacity-Programming-For-Data-Science-With-Python-Nanodegree
-<img src="image/DS_image.png" width="1000">
+<img src="images/DS_image.png" width="1000">
 ## Created by Mujahid Mohammed Alkhuzayyim
 
 This repository contains projects did for Udacity Programming For Data Science With Python Nanodegree.
