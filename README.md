@@ -22,7 +22,7 @@ For the presentation component, the student had to create four slides, and each 
 
 
 ## Project 2 : Explore US Bikeshare Data
-[Check My Project Submission Through This Link]()
+[Check My Project Submission Through This Link](https://github.com/mujahid-mohammed/Udacity-Programming-For-Data-Science-With-Python-Nanodegree/tree/main/Project_2)
 
 ### Overview:
 
@@ -32,7 +32,7 @@ The developed CLI program allows the user to explore an US bikeshare system data
 
 
 ## Project 3 : Post your Work on GitHub
-[Check My Project Submission Through This Link]()
+[Check My Project Submission Through This Link](https://github.com/mujahid-mohammed/Udacity-Programming-For-Data-Science-With-Python-Nanodegree/tree/main/Project_3)
 
 ### Overview:
 
