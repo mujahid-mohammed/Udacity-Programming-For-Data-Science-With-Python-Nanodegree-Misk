@@ -19,9 +19,10 @@ Source: http://www.postgresqltutorial.com/postgresql-sample-database/
 
 ### Files used:
 1. The following file contains necessary queries:
-   * Query.txt	
+   * querys.txt	
 2. The following file contains Visualisations of the resulted data from corresponding queries:
-   * SQL Project Report.pdf
+   * report.pdf
+   * report.pptx
 
 ### Credits:
 * [PostgreSQL documentation is very usefull.](https://www.postgresql.org/docs/12/index.html)
